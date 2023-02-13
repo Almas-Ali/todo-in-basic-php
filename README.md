@@ -3,7 +3,7 @@
 Created by **Md. Almas Ali**
 
 ```bash
-// MySQL database configuration. change as ours.
+# MySQL database configuration. change as ours.
 $hostname = "localhost";
 $username = "root";
 $password = "";
