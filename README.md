@@ -1,8 +1,8 @@
 # A simple TODO application created in PHP
 
-**Created by Md. Almas Ali**
+Created by **Md. Almas Ali**
 
-bash```
+```bash
 // MySQL database configuration. change as ours.
 $hostname = "localhost";
 $username = "root";
